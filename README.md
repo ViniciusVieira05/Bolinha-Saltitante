@@ -1,17 +1,60 @@
-# bolinha_saltitante
+# 🎮 Bolinha Saltitante
 
-A new Flutter project.
+Jogo simples desenvolvido em **Flutter** com o objetivo de praticar os fundamentos do Flutter e Dart.
 
-## Getting Started
+## 🎯 Objetivo
 
-This project is a starting point for a Flutter application.
+Projeto desenvolvido para estudos de:
 
-A few resources to get you started if this is your first Flutter project:
+- Widgets e `StatefulWidget`
+- `setState()`
+- `Timer`
+- `GestureDetector`
+- `Stack` e `Positioned`
+- Navegação entre telas
+- Detecção de colisões
+- Assets e imagens
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🕹️ Sobre o jogo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O jogador controla uma bolinha que precisa pular para desviar dos obstáculos.
+
+Ao ocorrer uma colisão, é exibida a tela de **Game Over**, com as opções:
+
+- **Jogar novamente**
+- **Início**
+
+## 🚀 Como executar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/ViniciusVieira05/Bolinha-Saltitante.git
+
+Entre na pasta:
+
+cd bolinha-saltitante
+
+Instale as dependências:
+
+flutter pub get
+
+Execute:
+
+flutter run
+```
+## 🛠️ Tecnologias
+
+Flutter
+
+Dart
+
+Android Studio
+
+Git/GitHub
+
+## 👨‍💻 Autor
+
+Vinicius Vieira Romão
+
+Projeto desenvolvido para estudos de Flutter.
